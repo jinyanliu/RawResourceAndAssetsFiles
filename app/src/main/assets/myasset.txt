@@ -1,0 +1,108 @@
+{
+"id": 321612,
+"quicktime": [],
+"youtube": [
+{
+"name": "Official US Teaser Trailer",
+"size": "HD",
+"source": "c38r-SAnTWM",
+"type": "Trailer"
+},
+{
+"name": "Lumiere Motion Poster",
+"size": "HD",
+"source": "bgeSXHvPoBI",
+"type": "Clip"
+},
+{
+"name": "Cogsworth Motion Poster",
+"size": "HD",
+"source": "8w3f-RugY60",
+"type": "Clip"
+},
+{
+"name": "Cadenza Motion Poster",
+"size": "HD",
+"source": "BZj00cPRmUo",
+"type": "Clip"
+},
+{
+"name": "Garderobe Motion Poster",
+"size": "HD",
+"source": "hIoJ0tYJtsU",
+"type": "Clip"
+},
+{
+"name": "Plumette Motion Poster",
+"size": "HD",
+"source": "vyBd-UtVlZU",
+"type": "Clip"
+},
+{
+"name": "Mrs. Potts Motion Poster",
+"size": "HD",
+"source": "TjI83VLKQ3I",
+"type": "Clip"
+},
+{
+"name": "Gaston Motion Poster",
+"size": "HD",
+"source": "6CUwMuQIpNk",
+"type": "Clip"
+},
+{
+"name": "LeFou Motion Poster",
+"size": "HD",
+"source": "KSTGuuTqcAk",
+"type": "Clip"
+},
+{
+"name": "Maurice Motion Poster",
+"size": "HD",
+"source": "Si4uWyCGT2U",
+"type": "Clip"
+},
+{
+"name": "Official \"Belle\" Clip",
+"size": "HD",
+"source": "nT1VQkTTT7M",
+"type": "Clip"
+},
+{
+"name": "Official US Final Trailer",
+"size": "HD",
+"source": "e3Nl_TCQXuw",
+"type": "Trailer"
+},
+{
+"name": "Official Golden Globes TV Spot",
+"size": "HD",
+"source": "S7ENUYTXlJg",
+"type": "Teaser"
+},
+{
+"name": "Official US Trailer",
+"size": "HD",
+"source": "OvW_L8sTu5E",
+"type": "Trailer"
+},
+{
+"name": "Official \"Bringing Beauty To Life\" Featurette",
+"size": "HD",
+"source": "Ow78zp30ioE",
+"type": "Featurette"
+},
+{
+"name": "Beauty And The Beast (2017) Featurette",
+"size": "HD",
+"source": "Sq8vjBg7EWE",
+"type": "Featurette"
+},
+{
+"name": "\"Dinner Invitation\" Clip",
+"size": "HD",
+"source": "MKyp9Tx-NPY",
+"type": "Clip"
+}
+]
+}
